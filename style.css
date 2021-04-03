@@ -1,0 +1,20 @@
+.para1 {
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-decoration: underline;
+}
+#main {
+    color: rgb(255, 153, 0);
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-decoration: underline;
+}
+.khan{
+    color: aqua;
+}
