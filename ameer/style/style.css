@@ -1,0 +1,50 @@
+.banner-card{
+    position: relative;
+}
+body{
+     margin: 0%;
+     padding: 0%;
+     background-color: rgba(0, 0, 0, 0.808);
+}
+
+.banner-card-left img{
+    width: 28%;
+    height: 100vh;
+    flex-direction: row;
+}
+.banner-text{
+    position: absolute;
+    bottom: 10%;
+    color: rgb(231, 222, 222);
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+}
+.banner-text div{
+    color: rgb(4, 167, 39);
+    block-size: 20px;
+}
+.banner-card{
+    position: absolute;
+    top: 50px;
+    padding: 5px;
+    padding-left: 400px;
+    color: blanchedalmond;
+    float: right;
+}
+.my-details{
+    color: aqua;
+}
+
+.banner-card .section{
+    width: 49%;
+    display: inline block;
+} 
+}
+.section-2{
+    float: right;
+    clear: right;
+}
+.section-3{
+    float: right;
+}
